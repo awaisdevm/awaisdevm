@@ -4,11 +4,11 @@
    </div>
 
 ## :man_technologist: About Me:
-I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
-- 💞️ I’m looking to collaborate on Android Projects as well as on Android Open Sources.
+I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
+- 💞️ I’m looking to collaborate on Android Projects as well as on Android Open Source.
 - :telescope: 
 - 🌱 I’m currently learning JetPack Compose and Advanced Android Development.
-- :zap: In my free time, I solve problems on HackerRank, try to contribute in Android Open-Source and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank, try to contribute to Android Open-Source, and read tech articles.
 
 ## 🌐 Socials:
 <div align="center">
