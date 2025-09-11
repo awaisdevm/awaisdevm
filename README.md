@@ -100,10 +100,6 @@ I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/m
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-## 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=awaisdevm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
