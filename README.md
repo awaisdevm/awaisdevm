@@ -13,7 +13,7 @@ I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/m
 ## 🌐 Socials:
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awais963) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mughal963) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaisdevm) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mughal963) 
 </div>
 
 ## 💻 Tech Stack:
@@ -70,9 +70,9 @@ I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/m
   
 <div align="center">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awais963&theme=dracula)](https://git.io/streak-stats) ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=awais963&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=awais963&theme=dracula)](https://github.com/awais963/github-profile-trophy)
-![My Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awais963&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awaisdevm&theme=dracula)](https://git.io/streak-stats) ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=awaisdevm&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=awaisdevm&theme=dracula)](https://github.com/awaisdevm/github-profile-trophy)
+![My Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awaisdevm&theme=dracula)
 
   </div>
   
@@ -80,13 +80,13 @@ I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/m
 
  <div align="center" >
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais963&theme=dracula)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awais963&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awais963&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awaisdevm&theme=dracula)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisdevm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awaisdevm&theme=dracula)
   </div>
   <div align="center">
     
-  ![](https://github-contributor-stats.vercel.app/api?username=awais963&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=awaisdevm&limit=5&theme=dracula&combine_all_yearly_contributions=true)
   </div>
 
   <div align="center">
@@ -104,6 +104,6 @@ I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/m
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=awais963&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=awaisdevm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
