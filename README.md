@@ -2,6 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=2000&width=600&height=90&multiline=true&pause=500&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&lines=Hey+I'm+Muhammad+Awais;Software+Engineer+Mobile+Application+Developer)](https://git.io/typing-svg)
    </div>
+Senior Mobile Engineer | Android (Kotlin, Jetpack Compose) | Flutter (Dart) | Open-Source Developer
 
 ## :man_technologist: About Me:
 I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
