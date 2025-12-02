@@ -7,7 +7,7 @@ Senior Mobile Engineer | Android (Kotlin, Jetpack Compose) | Flutter (Dart) | Op
 ## :man_technologist: About Me:
 I am Software Engineer Mobile Apps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
 - 💞️ I’m looking to collaborate on Android Projects as well as on Android Open Source.
-- :telescope: Meet me at https://devawais.vercel.app
+- :telescope: Meet me at https://devawais.com
 - 🌱 I’m currently learning JetPack Compose and Advanced Android Development.
 - :zap: In my free time, I solve problems on HackerRank, try to contribute to Android Open-Source, and read tech articles.
 
